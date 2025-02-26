@@ -1,8 +1,32 @@
-# React + Vite
+# CipherLockApp
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
+This is a React-based cryptocurrency market website that displays real-time market values, current prices, and 24-hour changes along with market charts. The application fetches data from a cryptocurrency API and presents it in an interactive and user-friendly manner.
 
-Currently, two official plugins are available:
+## Features
+- Displays real-time market values of cryptocurrencies.
+- Shows current prices and 24-hour changes.
+- Integrates market charts for visualization.
+- Fetches data from a cryptocurrency API.
+- Responsive design for different screen sizes.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies Used
+- React.js
+- JavaScript (ES6+)
+-  HTML5 & CSS3
+-  Weather API
+-   
+
+## API Integration
+This project fetches cryptocurrency data from an external API [CoinGecko](https://www.coingecko.com/en/api) .
+
+
+## Usage
+- The homepage displays a list of top cryptocurrencies with real-time data.
+- Click on a cryptocurrency to view detailed charts and statistics.
+
+
+## Contributing
+If you'd like to contribute, please fork the repository and submit a pull request.
+
+

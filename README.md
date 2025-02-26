@@ -14,8 +14,7 @@ This is a React-based cryptocurrency market website that displays real-time mark
 - React.js
 - JavaScript (ES6+)
 -  HTML5 & CSS3
--  Weather API
--   
+-  Weather API  
 
 ## API Integration
 This project fetches cryptocurrency data from an external API [CoinGecko](https://www.coingecko.com/en/api) .
